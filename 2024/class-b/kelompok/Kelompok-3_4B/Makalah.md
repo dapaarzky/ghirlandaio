@@ -32,11 +32,16 @@ digunakan. Untuk itu, kami mengharapkan kritik dan saran dari para pembaca agar 
 menjadi acuan dalam membuat makalah yang lebih baik di masa mendatang. Akhir kata 
 semoga makalah ini dapat memberikan manfaat bagi para pembaca.
 Tangerang Selatan, 7 April 2026
+
 ## 1.1 Latar Belakang
 Perkembangan teknologi informasi sejak pertengahan abad ke-20 telah mengubah secara mendasar lanskap sosial, ekonomi, politik, dan budaya global. Era 1960-an menandai titik balik ketika komputer beralih dari instrumen hitung militer-ilmiah yang terpusat menjadi fondasi infrastruktur digital yang kini menopang peradaban kontemporer. Dalam kurun waktu lebih dari enam dekade, dinamika penciptaan, distribusi, dan pemanfaatan teknologi tidak lagi digerakkan oleh satu aktor tunggal, melainkan oleh interaksi kompleks antara negara, sektor swasta, komunitas teknis, serta nilai-nilai ideologis yang melingkupinya. Memetakan pola hubungan antar-aktor tersebut menjadi prasyarat untuk memahami mengapa teknologi berkembang dalam bentuk, arah, dan regulasi seperti yang kita saksikan hari ini.
+
 Hubungan antara negara dan teknologi telah mengalami transformasi panjang: dari model pendanaan pertahanan dan riset terpusat pada masa Perang Dingin, menuju kebijakan digital yang menekankan kedaulatan siber, tata kelola data, standardisasi, dan transformasi layanan publik. Negara tidak lagi sekadar regulator atau pengguna akhir, melainkan aktor strategis yang membentuk arsitektur teknologi melalui investasi publik, kebijakan inovasi nasional, dan diplomasi digital. Di sisi lain, sektor swasta telah menjadi motor utama komersialisasi dan percepatan inovasi. Mulai dari kebangkitan klaster industri teknologi hingga dominasi platform digital global, swasta mendorong efisiensi, skalabilitas, dan diferensiasi pasar melalui mekanisme kompetisi, investasi ventura, dan model bisnis berbasis layanan. Pola hubungan swasta-teknologi pun berevolusi dari lisensi perangkat keras tertutup menuju ekosistem data, algoritma, dan kolaborasi lintas sektor.
+
 Dalam ekosistem tersebut, budaya peretasan (hacking culture) muncul sebagai fenomena yang sering disalahpahami namun secara historis justru menjadi katalisator inovasi. Praktik eksplorasi sistem, dokumentasi terbuka, berbagi pengetahuan, dan pengembangan alat secara kolaboratif oleh komunitas hacker turut membentuk fondasi pengembangan perangkat lunak modern, metodologi agile, keamanan siber proaktif, serta arsitektur terdesentralisasi. Kontribusi mereka melampaui narasi pelanggaran keamanan, menjadi etos kerja yang menekankan transparansi, meritokrasi teknis, dan kebebasan bereksperimen.
+
 Parallel dengan dinamika aktor tersebut, perdebatan antara kode sumber terbuka (open source) dan kode sumber tertutup (closed source) telah menjadi salah satu garis pemisah paling fundamental dalam sejarah teknologi informasi sejak 1970-an. Pola hubungan keduanya tidak bersifat dikotomis statis, melainkan mengalami fase konfrontasi, koeksistensi, hingga adopsi model hibrida yang mencerminkan ketegangan antara nilai kebebasan informasi, hak kekayaan intelektual, insentif pasar, dan kebutuhan keamanan komersial. Pemilihan model lisensi tidak hanya berdampak teknis-ekonomis, tetapi juga sarat muatan ideologis: antara gerakan yang menekankan hak akses, kolaborasi global, dan demokratisasi pengetahuan, dengan paradigma yang menekankan perlindungan aset intelektual, kontrol kualitas, dan keberlanjutan bisnis tertutup.
+
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagiamana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
@@ -44,6 +49,7 @@ Parallel dengan dinamika aktor tersebut, perdebatan antara kode sumber terbuka (
 4. Jelaskan sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970an-sekarang.
 5. Jelaskan sikap anda terhadap kode sumber terbuka atau kode sumber tertutup.
 6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
+
 ## 1.3 Tujuan Penulisan
 Adapun tujuan penulisan makalah ini adalah:
 1. Untuk menjelaskan konsep dan pola hubungan antara negara dan teknologi sejak 1960 hingga sekarang.
@@ -51,6 +57,7 @@ Adapun tujuan penulisan makalah ini adalah:
 3. Untuk menelusuri implementasi serta kontribusi budaya hacking terhadap perkembangan teknologi dan masyarakat.
 4. Untuk mengetahui sejarah serta pola hubungan antara open source dan closed source dari tahun 1970-an hingga sekarang.
 5. Untuk memberikan analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
+
 ## PEMBAHASAN
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
