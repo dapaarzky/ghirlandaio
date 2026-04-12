@@ -1,4 +1,4 @@
-# Mengapa Mendukung _Open Source_ Dianggap Sejalan dengan Gagasan Marx Tentang Kepemilikan Bersama?
+# **Mengapa Mendukung _Open Source_ Dianggap Sejalan dengan Gagasan Marx Tentang Kepemilikan Bersama?**
 
 *Resume hasil presentasi kelompok 3: Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka*
 
@@ -15,3 +15,7 @@ Kalau lihat isi buku Troublemakers, perkembangan teknologi di Silicon Valley jug
 Ini semua mirip pola _open source_ kode dibuka, siapa aja bisa ikut mengembangkan, tidak ada satu pihak yang pegang kendali penuh. Semangatnya jelas seperti mendorong keterbukaan, kolaborasi, biar makin banyak orang bisa terlibat. Kalau bicara soal ide Marx, _open source_ juga menolak monopoli dan mengutamakan kepemilikan bersama.
 
 Tapi terus terang, _open source_ hari ini tetap hidup di dalam sistem yang masih kapitalistik. Meski mengedepankan kolaborasi dan berbagi, tetap ada kepentingan ekonomi di belakangnya. Jadi, nilai-nilai Marx memang ada, tapi praktik _open source_ belum sepenuhnya bebas dari logika keuntungan dan kapitalisme.
+
+## Kesimpulan
+
+Kalau dilihat secara garis besarnya, _open source_ memang punya kemiripan dengan gagasan Marx. Keduanya menekankan keterbukaan dan kepemilikan bersama. Sejarah juga membuktikan hal itu dalam buku Troublemakers, kita bisa lihat teknologi maju karena kerja sama banyak orang, bukan hasil kerja satu dua individu saja. Tapi ya, persamaannya tidak sepenuhnya utuh. Sistem _open source_ tetap bergerak di lingkup ekonomi yang memikirkan profit juga. Jadi, _open source_ bisa dibilang membawa semangat kebersamaan, tapi tidak benar-benar lepas dari sistem yang jalan sekarang.
